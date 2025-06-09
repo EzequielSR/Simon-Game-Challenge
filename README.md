@@ -11,7 +11,7 @@
 Este projeto foi desenvolvido com:  
 - 🌐 **HTML**  
 - 🎨 **CSS**  
-- ⚡ **JavaScript**  
+- ⚡ **JQuery**  
 
 ## 🎮 Como Jogar  
 1. Faça o clone do repositório:  
